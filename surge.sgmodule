@@ -2,5 +2,6 @@
 skip-proxy = 127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,100.64.0.0/10,localhost,*.local,e.cr,*.test,ashlytics.com,captive.apple.com,::ffff:0:0:0:0/1,::ffff:128:0:0:0/1
 
 [Rule]
+
 DOMAIN-SUFFIX,zhiyinlou.com,DIRECT
 DOMAIN-SUFFIX,100tal.com,DIRECT
