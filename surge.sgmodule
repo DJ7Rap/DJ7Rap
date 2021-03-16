@@ -7,3 +7,6 @@ skip-proxy =  %APPEND% *.test
 [Rule]
 DOMAIN-SUFFIX,zhiyinlou.com,DIRECT
 DOMAIN-SUFFIX,100tal.com,DIRECT
+
+[MITM]
+hostname = *.zhiyinlou.com
